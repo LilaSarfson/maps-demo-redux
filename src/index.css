@@ -1,0 +1,7 @@
+html, body, #app, .App, #root, #app>div {
+    height: 100%
+  }
+.display-map{
+    width: 50%;
+    height: 50%;
+}
